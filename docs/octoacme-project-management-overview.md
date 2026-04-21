@@ -19,6 +19,8 @@ Applies to all cross-functional projects that deliver product features, services
 - Developers: implement features, collaborate on design and testability.
 - QA/Testing: validate quality and acceptance criteria.
 - Stakeholders: provide inputs and approvals.
+- Detailed role definitions: [Roles and Personas](./octoacme-roles-and-personas.md)
+- Kickoff accountability aid: [Role Alignment Checklist](./octoacme-role-alignment-checklist.md)
 
 ## Key Artifacts
 - Project Charter / One-pager
