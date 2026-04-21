@@ -21,4 +21,5 @@ Quality, release discipline, and learning loops are built into delivery. QA/Test
 
 ## How to propose improvements
 
-To request updates to these process docs, open an issue using the templates in [`.github/ISSUE_TEMPLATE/`](../.github/ISSUE_TEMPLATE/). Include the target document, the proposed change, and why it should be updated so PM, PdM/Product Manager, Product Lead, Developers, QA/Testing, and Stakeholders/Sponsors can review with shared context.
+To request updates to these process docs, open an issue using the templates in [`.github/ISSUE_TEMPLATE/`](../.github/ISSUE_TEMPLATE/).
+Include the target document, the proposed change, and why it should be updated so PM, PdM/Product Manager, Product Lead, Developers, QA/Testing, and Stakeholders/Sponsors can review with shared context.
