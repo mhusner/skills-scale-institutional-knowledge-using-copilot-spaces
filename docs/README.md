@@ -18,6 +18,7 @@ Quality, release discipline, and learning loops are built into delivery. QA/Test
 - [Release and Deployment Guide](./octoacme-release-and-deployment.md)
 - [Retrospective and Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [Roles and Personas](./octoacme-roles-and-personas.md)
+- [Role Alignment Checklist (Kickoff + RACI-lite)](./octoacme-role-alignment-checklist.md)
 
 ## How to propose improvements
 

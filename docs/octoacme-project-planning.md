@@ -7,6 +7,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Break work into shippable increments
 - Identify dependencies and risks
 - Align timelines, releases, and responsibilities
+- Confirm role accountability using [Roles and Personas](./octoacme-roles-and-personas.md) and the [Role Alignment Checklist](./octoacme-role-alignment-checklist.md)
 
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
@@ -37,6 +38,7 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] Role assignments reviewed and phase ownership confirmed with [Role Alignment Checklist](./octoacme-role-alignment-checklist.md)
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
